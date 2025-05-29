@@ -1,5 +1,19 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
 
-body{
-    background: white;
-}
+ body {
+      background-color: white;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      font-family: 'Georgia', serif;
+    }
+
+    .excusas {
+      text-align: center;
+      font-size: 1.5em;
+      font-weight: bold;
+      }
+      h1 {
+        text-align: center;
+      }
